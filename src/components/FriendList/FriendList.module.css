@@ -1,0 +1,11 @@
+.mainList {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.listItem {
+  width: 100px;
+  border: solid 2px black;
+  border-radius: 10px;
+}

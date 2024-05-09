@@ -1,0 +1,30 @@
+.table {
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid 2px black;
+  width: 600px;
+  border-collapse: collapse;
+}
+
+.mainTitle {
+  color: white;
+  background-color: darkslategray;
+  padding: 0;
+  text-align: center;
+  padding: 8px;
+  border: solid 1px black;
+}
+.text {
+  border: solid 1px black;
+  padding: 0;
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
+.listItem {
+  background-color: white;
+}
+.listItemEven {
+  background-color: lightgoldenrodyellow;
+}
